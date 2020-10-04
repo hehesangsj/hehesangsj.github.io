@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-10-04T03:34:05.120Z</updated>
+  <updated>2020-10-04T06:03:14.429Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的托福历程</title>
+    <link href="http://example.com/%E6%88%91%E7%9A%84%E6%89%98%E7%A6%8F%E5%8E%86%E7%A8%8B/"/>
+    <id>http://example.com/%E6%88%91%E7%9A%84%E6%89%98%E7%A6%8F%E5%8E%86%E7%A8%8B/</id>
+    <published>2020-10-04T05:53:54.000Z</published>
+    <updated>2020-10-04T06:03:14.429Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;我的托福历程&quot;&gt;&lt;a href=&quot;#我的托福历程&quot; class=&quot;headerlink&quot; title=&quot;我的托福历程&quot;&gt;&lt;/a&gt;我的托福历程&lt;/h1&gt;&lt;p&gt;从2020.10.04到2020.10.31，为期28天，每天记录一下自己学了啥&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+    <category term="托福" scheme="http://example.com/%E6%A0%87%E7%AD%BE/%E6%89%98%E7%A6%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>我的第一个blog</title>
